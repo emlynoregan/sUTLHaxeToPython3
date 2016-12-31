@@ -1,0 +1,6 @@
+[submodule "sUTLHaxe"]
+	path = sUTLHaxe
+	url = git@github.com:emlynoregan/sUTLHaxe.git
+[submodule "sUTLHaxePython3"]
+	path = sUTLHaxePython3
+	url = git@github.com:emlynoregan/sUTLHaxePython3.git
